@@ -1,6 +1,6 @@
 ---
 title: Practical Machine Learning Project - Quantified Self Movement Data Analysis Report  
-author: "Junaid"
+author: "Junaid Ahmed"
 output: 
   html_document:
     toc: true
@@ -201,3 +201,4 @@ rm(validation)
 rm(pml_write_files)
 
 ```  
+
