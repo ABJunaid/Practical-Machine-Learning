@@ -5,8 +5,6 @@ output:
   html_document:
     toc: true
     theme: united
-  md_document: 
-    variant: markdown_github
 ---
 
 Practical Machine Learning Course Project Report  
@@ -201,4 +199,5 @@ rm(validation)
 rm(pml_write_files)
 
 ```  
+
 
